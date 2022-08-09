@@ -1,5 +1,19 @@
 # Node Auth JWT Backend
 
-# when starting
+Sample Nodejs API with Authentication
 
-# npm init / npm install express / npm install nodemon / npm install mongoose / npm install @hapi/joi
+# PACKAGES USED
+
+- Express
+- nodemon
+- mongoose (MongoDB)
+- @hapi/joi (Validation)
+- bcryptjs (Hash password)
+- jsonwebtoken (Create token)
+
+# npm install
+
+# Create .env
+
+- DB_CONNECT=
+- JWT_TOKEN_SECRET=
